@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using Collections;
+Console.WriteLine("Hello world");
 
 // List Kullanımı
 //Ekleme

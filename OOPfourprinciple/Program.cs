@@ -2,6 +2,7 @@
 
 using OOPfourprinciple;
 using OOPfourprinciple.PolyAndAbstraction;
+Console.WriteLine("Hello world");
 
 // Encapsulation
 /*var customer = new Customer();
