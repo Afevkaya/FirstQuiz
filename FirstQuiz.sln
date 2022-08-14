@@ -5,9 +5,11 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{38C88B33-4F17-40C1-836F-99E880AB1BFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPfourprinciple", "OOPfourprinciple\OOPfourprinciple.csproj", "{26B2430E-05F4-4548-B116-F93ECAD5A9C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPfourprinciple", "OOPfourprinciple\OOPfourprinciple.csproj", "{26B2430E-05F4-4548-B116-F93ECAD5A9C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreRelationalDatabase", "EfCoreRelationalDatabase\EfCoreRelationalDatabase.csproj", "{79BB4F1C-67F1-42CA-8321-95B9F86944D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreRelationalDatabase", "EfCoreRelationalDatabase\EfCoreRelationalDatabase.csproj", "{79BB4F1C-67F1-42CA-8321-95B9F86944D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID", "SOLID\SOLID.csproj", "{AAC0D60C-FD56-4F7B-8881-FB2F256B46DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{79BB4F1C-67F1-42CA-8321-95B9F86944D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79BB4F1C-67F1-42CA-8321-95B9F86944D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79BB4F1C-67F1-42CA-8321-95B9F86944D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC0D60C-FD56-4F7B-8881-FB2F256B46DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC0D60C-FD56-4F7B-8881-FB2F256B46DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC0D60C-FD56-4F7B-8881-FB2F256B46DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC0D60C-FD56-4F7B-8881-FB2F256B46DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
